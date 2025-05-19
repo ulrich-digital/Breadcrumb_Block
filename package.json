@@ -1,0 +1,24 @@
+{
+    "_comment": "Diese Datei steuert den Build-Prozess und enthält Projektmetadaten.",
+    "name": "ud-breadcrumb-block",
+    "version": "1.0.0",
+    "description": "Block zur Anzeige einer Breadcrumb-Navigation.",
+    "scripts": {
+        "build": "webpack --config webpack.config.js",
+        "start": "webpack --watch --config webpack.config.js"
+    },
+    "keywords": [
+        "wordpress",
+        "block",
+        "breadcrumb",
+        "navigation"
+    ],
+    "author": "ulrich.digital gmbh",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "@wordpress/scripts": "^30.15.0"
+    },
+    "dependencies": {
+        "@wordpress/server-side-render": "^5.22.0"
+    }
+}

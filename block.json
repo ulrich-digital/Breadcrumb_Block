@@ -1,0 +1,17 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "name": "ud/breadcrumb",
+    "version": "0.1.0",
+    "title": "Breadcrumb-Block",
+    "category": "widgets",
+    "description": "Zeigt eine Breadcrumb-Navigation an.",
+    "keywords": [
+        "breadcrumb",
+        "navigationshilfe"
+    ],
+    "textdomain": "ud-breadcrumb-block",
+    "style": "file:./build/frontend-style.css",
+    "editorStyle": "file:./build/editor.css",
+    "editorScript": "file:./build/editor.js"
+}

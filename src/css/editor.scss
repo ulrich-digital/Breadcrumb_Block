@@ -1,0 +1,16 @@
+/* Template-Editor */
+.wp-block-custom-breadcrumb.template-editor {
+	background-color: #f0f0f0;
+	padding: 10px;
+	font-size: 100%;
+}
+
+.wp-block-custom-breadcrumb i {
+	font-style: normal!important;
+}
+.wp-block-custom-breadcrumb > div {
+	width: var(--wp--style--global--content-size);
+	max-width: 100%;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
