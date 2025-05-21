@@ -17,7 +17,14 @@ defined('ABSPATH') || exit;
  */
 
 
+
 // PHP-Funktionen laden
+/*
 foreach (glob(__DIR__ . '/includes/*.php') as $file) {
     require_once $file;
 }
+*/
+
+require_once __DIR__ . '/includes/helpers.php';
+require_once __DIR__ . '/includes/render.php';
+require_once __DIR__ . '/includes/enqueue.php';

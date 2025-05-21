@@ -1,0 +1,27 @@
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/css/frontend.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+.wp-block-custom-breadcrumb {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.4em;
+  max-width: var(--wp--style--global--content-size);
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0;
+  font-size: 80%;
+}
+
+.wp-block-custom-breadcrumb i {
+  font-style: normal;
+}
+
+.wp-block-custom-breadcrumb .delimiter {
+  font-size: 75%;
+}
+
+.wp-block-custom-breadcrumb a {
+  text-decoration: none;
+  color: inherit;
+}
