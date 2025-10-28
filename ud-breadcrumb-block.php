@@ -1,12 +1,14 @@
 <?php
 
 /**
- * Plugin Name: Breadcrumb Block
- * Description: Block zur Anzeige einer Breadcrumb-Navigation basierend auf der Seitenhierarchie. Zeigt nur Elternseiten – nicht die aktuelle Seite – um Dopplung mit dem Seitentitel zu vermeiden.
- * Version: 1.2.0
- * Author: ulrich.digital
- * Author URI: https://ulrich.digital/
- * Text Domain: ud-breadcrumb-block
+ * Plugin Name:     UD Block: Breadcrumb
+ * Description:     Block zur Anzeige einer Breadcrumb-Navigation basierend auf der Seitenhierarchie. Zeigt nur Elternseiten – nicht die aktuelle Seite – um Dopplung mit dem Seitentitel zu vermeiden.
+ * Version:         1.2.0
+ * Author:          ulrich.digital gmbh
+ * Author URI:      https://ulrich.digital/
+ * License:         GPL v2 or later
+ * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:     breadcrumb-block-ud
  */
 
 defined('ABSPATH') || exit;
