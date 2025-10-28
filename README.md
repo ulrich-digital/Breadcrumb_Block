@@ -33,3 +33,10 @@ Du kannst das Plugin wie jeden anderen Gutenberg-Block nutzen – einfach in ein
 1. Plugin-Ordner in `wp-content/plugins/` legen
 2. Aktivieren
 3. Block „Breadcrumb“ im Editor einfügen
+
+<!--
+Eingesetzt in den Projekten
+- illgau.ch
+- schule.illgau.ch
+- bbzg.ch
+-->
