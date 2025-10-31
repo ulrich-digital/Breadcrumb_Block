@@ -14,7 +14,7 @@ Im Gegensatz zu vielen anderen Breadcrumb-Plugins wird die aktuelle Seite **nich
 ## Screenshots
 
 ![Breadcrumb-Frontend](./assets/img/breadcrumb_frontend.png)
-*Abbildung: Frontend-Darstellung des Breadcrumb-Blocks im Standard-Theme.*
+*Frontend-Darstellung des Breadcrumb-Blocks im Standard-Theme.*
 
 
 
