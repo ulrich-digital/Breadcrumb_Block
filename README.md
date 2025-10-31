@@ -2,7 +2,6 @@
 
 Der Block zeigt eine dynamische Breadcrumb-Navigation an.
 Im Gegensatz zu vielen anderen Breadcrumb-Plugins wird die aktuelle Seite **nicht** im Breadcrumb-Pfad angezeigt – das verhindert doppelte Titel und sorgt für klarere Layouts.
-Die Ausgabe erfolgt serverseitig und kann über das Theme oder weitere Plugins angepasst werden.
 
 ## Funktionen
 - Gutenberg-Block für Breadcrumb-Navigation
